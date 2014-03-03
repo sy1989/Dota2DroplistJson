@@ -1,0 +1,8 @@
+D:\GitHub\Dota2DroplistJson\DropList\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\Dota2DroplistJson\DropList\bin\Debug\SteamKit2.dll
+D:\GitHub\Dota2DroplistJson\DropList\obj\Debug\Drop.csprojResolveAssemblyReference.cache
+D:\GitHub\Dota2DroplistJson\DropList\bin\Debug\Drop.exe.config
+D:\GitHub\Dota2DroplistJson\DropList\bin\Debug\Drop.exe
+D:\GitHub\Dota2DroplistJson\DropList\bin\Debug\Drop.pdb
+D:\GitHub\Dota2DroplistJson\DropList\obj\Debug\Drop.exe
+D:\GitHub\Dota2DroplistJson\DropList\obj\Debug\Drop.pdb
